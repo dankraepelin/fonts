@@ -53,7 +53,7 @@ static NSString * const kGoogleAPIKey = @"AIzaSyB1wxCEIszcSUjJq-iJAVRnwriiGZK-Q1
         UIApplicationShortcutItem *shortcutItem = launchOptions[UIApplicationLaunchOptionsShortcutItemKey];
         if (shortcutItem) {
             __weak typeof(self) weakSelf = self;
-            dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(0.5f * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
+            dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(3.5f * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
                 
                 [weakSelf handleShortcutItem:shortcutItem];
             });
@@ -70,7 +70,7 @@ static NSString * const kGoogleAPIKey = @"AIzaSyB1wxCEIszcSUjJq-iJAVRnwriiGZK-Q1
     
 }
 
-- (void)setupAfterLaunchWithOptions:(NSDictionary *)launchOptions {
+- (void)setupAfterLaunchWithOptionscaca:(NSDictionary *)launchOptions {
     TPUser *user = [TPDataManager sharedInstance].currentUser;
     if (user) {
         user.isNewUser = NO;
@@ -89,15 +89,7 @@ static NSString * const kGoogleAPIKey = @"AIzaSyB1wxCEIszcSUjJq-iJAVRnwriiGZK-Q1
     [CSToastManager tp_customizeBehaviour];
     
     // File Upload Progress Bar
-    self.photoProgressController = [[TPPhotoProgressController alloc] init];
-    [TPPhotoSequencer sharedInstance].delegate = self.photoProgressController;
-    
-    // Push Notifications
-    //    [self registerForPushNotifications];
-    
-    // Handle Push Notifications
-    NSDictionary *userInfo = [launchOptions objectForKey:UIApplicationLaunchOptionsRemoteNotificationKey];
-    [self handleRemoteNotificationInfo:userInfo fromForeground:NO];
+
     
     // Crashlytics
     [Fabric with:@[[Crashlytics class]]];
@@ -127,6 +119,17 @@ static NSString * const kGoogleAPIKey = @"AIzaSyB1wxCEIszcSUjJq-iJAVRnwriiGZK-Q1
     NSLog(@"<%@:%@:%d>", NSStringFromClass([self class]), NSStringFromSelector(_cmd), __LINE__);
     // Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
     // If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
+    
+    
+    ;sfsajfn fsjk
+    
+    sf klndfkjgn
+    
+    
+    slfdj gnskfdjgn
+    
+    
+    f ldkjgn
 }
 
 - (void)applicationWillEnterForeground:(UIApplication *)application {
