@@ -102,6 +102,8 @@ static NSString * const kGoogleAPIKey = @"AIzaSyB1wxCEIszcSUjJq-iJAVRnwriiGZK-Q1
     [[TPDataManager sharedInstance] syncUserData];
 }
 
+
+
 - (BOOL)application:(UIApplication *)application openURL:(NSURL *)url sourceApplication:(NSString *)sourceApplication annotation:(id)annotation {
     return [[FBSDKApplicationDelegate sharedInstance] application:application
                                                           openURL:url
