@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'viroregular';
+    src: url('viro-webfont.eot');
+    src: url('viro-webfont.eot?#iefix') format('embedded-opentype'),
+         url('viro-webfont.woff') format('woff'),
+         url('viro-webfont.ttf') format('truetype'),
+         url('viro-webfont.svg#viroregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

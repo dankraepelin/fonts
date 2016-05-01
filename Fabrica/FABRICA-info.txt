@@ -1,0 +1,45 @@
+FABRICA v1.0
+---------------------------------------
+Fabrica is a deceptively simple sans serif typeface optimized for screen display on handheld devices. With its optimal quality and legibility, Fabrica proves to be highly efficient for small screens. Its details are drawn from the more systematic constructed Neo-Grotesques, giving it a neutral tone of voice. Above all, Fabrica’s beauty is found in its functionality.
+
+completed in 2011 by Alvin Kwan.
+---------------------------------------
+FABRICA is available in OpenType PS (OTF) format.
+
+---------------------------------------
+
+ L I C E N S E   I N F O R M A T I O N
+---------------------------------------
+
+FABRICA v1.0 is protected by SIL Open Font License (OFL) –
+FABRICA v1.0 is free for personal or non-profit use, 
+but is not licensed for commercial application.
+
+You can use FABRICA for personal and commercial work.
+You can share FABRICA with your friends
+as long as you include this text file.
+
+You must not sell FABRICA.
+You must not charge someone else for using FABRICA.
+You must not bundle FABRICA with a sold product.
+
+---------------------------------------
+
+Foundry
+Practice Foundry
+www.practicefoundry.com
+
+Alvin Kwan
+www.alvinkwan.com
+
+Vancouver, British Columbia
+April, 2011
+
+---------------------------------------
+If you have any comments about FABRICA
+please let me know:
+alvin@practicefoundry.com
+---------------------------------------
+
+May 6th, 2011
+Released
