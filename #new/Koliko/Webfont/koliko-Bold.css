@@ -1,0 +1,12 @@
+/* Webfont: koliko-Bold */@font-face {
+    font-family: 'kolikoBold';
+    src: url('koliko-Bold.eot'); /* IE9 Compat Modes */
+    src: url('koliko-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('koliko-Bold.woff') format('woff'), /* Modern Browsers */
+         url('koliko-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('koliko-Bold.svg#koliko-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

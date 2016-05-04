@@ -1,0 +1,12 @@
+/* Webfont: koliko-Regular */@font-face {
+    font-family: 'kolikoRegular';
+    src: url('koliko-Regular.eot'); /* IE9 Compat Modes */
+    src: url('koliko-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('koliko-Regular.woff') format('woff'), /* Modern Browsers */
+         url('koliko-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('koliko-Regular.svg#koliko-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
