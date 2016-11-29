@@ -1,0 +1,677 @@
+%!Adobe-FontList 1.11
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Advert
+FamilyName:Advert
+StyleName:Regular
+FullName:Advert
+MenuName:Advert
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Advert.ttf
+DataFormat:sfntData
+FileLength:77804
+FileModTime:1318881326
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AmaticSC-Bold
+FamilyName:Amatic SC
+StyleName:Bold
+FullName:Amatic SC Bold
+MenuName:Amatic SC
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:J:\\Font\AmaticSC-Bold.ttf
+DataFormat:sfntData
+FileLength:37852
+FileModTime:1333106006
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AmaticSC-Regular
+FamilyName:Amatic SC
+StyleName:Regular
+FullName:Amatic SC Regular
+MenuName:Amatic SC
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\AmaticSC-Regular.ttf
+DataFormat:sfntData
+FileLength:40000
+FileModTime:1333106006
+WeightClass:400
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AndarilhoFont
+FamilyName:Andarilho Font
+StyleName:normal
+FullName:Andarilho Font Normal
+MenuName:Andarilho Font
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\andarilho-font.ttf
+DataFormat:sfntData
+FileLength:23268
+FileModTime:1294141058
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArchitectsDaughter
+FamilyName:Architects Daughter
+StyleName:Regular
+FullName:Architects Daughter
+MenuName:Architects Daughter
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\ArchitectsDaughter.ttf
+DataFormat:sfntData
+FileLength:48640
+FileModTime:1295852406
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialRoundedMTBold
+FamilyName:Arial Rounded MT Bold
+StyleName:Regular
+FullName:Arial Rounded MT Bold
+MenuName:Arial Rounded MT Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Arial Rounded MT Bold.ttf
+DataFormat:sfntData
+FileLength:64586
+FileModTime:1343984429
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Blokletters-Balpen
+FamilyName:Blokletters Balpen
+StyleName:Balpen
+FullName:Blokletters Balpen
+MenuName:Blokletters Balpen
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Blokletters-Balpen.ttf
+DataFormat:sfntData
+FileLength:90740
+FileModTime:1254893222
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Blokletters-Potlood
+FamilyName:Blokletters Potlood
+StyleName:Potlood
+FullName:Blokletters Potlood
+MenuName:Blokletters Potlood
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Blokletters-Potlood.ttf
+DataFormat:sfntData
+FileLength:92008
+FileModTime:1254893222
+WeightClass:200
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Blokletters-Viltstift
+FamilyName:Blokletters Viltstift
+StyleName:Viltstift
+FullName:Blokletters Viltstift
+MenuName:Blokletters Viltstift
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Blokletters-Viltstift.ttf
+DataFormat:sfntData
+FileLength:87616
+FileModTime:1254893222
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Charlotte
+FamilyName:Charlotte
+StyleName:Regular
+FullName:Charlotte
+MenuName:Charlotte
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\charlotte.ttf
+DataFormat:sfntData
+FileLength:49808
+FileModTime:1341235166
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ChunkFive
+FamilyName:ChunkFive
+StyleName:Regular
+FullName:ChunkFive
+MenuName:ChunkFive
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Chunk.ttf
+DataFormat:sfntData
+FileLength:31268
+FileModTime:1306324932
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Daniel
+FamilyName:Daniel
+StyleName:Regular
+FullName:Daniel
+MenuName:Daniel
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\daniel.ttf
+DataFormat:sfntData
+FileLength:51984
+FileModTime:1232020024
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DanielBold
+FamilyName:Daniel
+StyleName:Bold
+FullName:Daniel Bold
+MenuName:Daniel
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:J:\\Font\danielbd.ttf
+DataFormat:sfntData
+FileLength:63688
+FileModTime:1232020024
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DanielBlack
+FamilyName:Daniel Black
+StyleName:Regular
+FullName:Daniel Black
+MenuName:Daniel Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\danielbk.ttf
+DataFormat:sfntData
+FileLength:88760
+FileModTime:1232020024
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ErasITC-Medium
+FamilyName:Eras Medium ITC
+StyleName:Regular
+FullName:Eras Medium ITC
+MenuName:Eras Medium ITC
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\ERASMD.TTF
+DataFormat:sfntData
+FileLength:60772
+FileModTime:1349622287
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Franchise-Bold
+FamilyName:Franchise
+StyleName:Regular
+FullName:Franchise Bold
+MenuName:Franchise
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Franchise-Bold.ttf
+DataFormat:sfntData
+FileLength:34548
+FileModTime:1264782208
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HaloHandletter
+FamilyName:HaloHandletter
+StyleName:Regular
+FullName:HaloHandletter
+MenuName:HaloHandletter
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\HaloHandletter.ttf
+DataFormat:sfntData
+FileLength:67904
+FileModTime:1284121050
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HandVetica
+FamilyName:HandVetica
+StyleName:Regular
+FullName:HandVetica
+MenuName:HandVetica
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:J:\\Font\HandVetica.ttf
+DataFormat:sfntData
+FileLength:222580
+FileModTime:1269598858
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLTCom-BdCn
+FamilyName:Helvetica Neue LT Com
+StyleName:77 Bold Condensed
+FullName:Helvetica Neue LT Com 77 Bold Condensed
+MenuName:HelveticaNeueLT Com 57 Cn
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:J:\\Font\HELVETICANEUELTCOM-BDCN.TTF
+DataFormat:sfntData
+FileLength:142956
+FileModTime:1351190832
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JennaSue
+FamilyName:Jenna Sue
+StyleName:Regular
+FullName:Jenna Sue
+MenuName:Jenna Sue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\JennaSue.ttf
+DataFormat:sfntData
+FileLength:42108
+FileModTime:1325836660
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Journal
+FamilyName:Journal
+StyleName:Regular
+FullName:Journal
+MenuName:Journal
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\JOURNAL.TTF
+DataFormat:sfntData
+FileLength:130956
+FileModTime:1206453980
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KGSevenSixteen
+FamilyName:KG Seven Sixteen
+StyleName:Regular
+FullName:KG Seven Sixteen
+MenuName:KG Seven Sixteen
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\KGSevenSixteen.ttf
+DataFormat:sfntData
+FileLength:47288
+FileModTime:1342592676
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LaurenCBrown
+FamilyName:Lauren C. Brown
+StyleName:Regular
+FullName:Lauren C. Brown
+MenuName:Lauren C. Brown
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\laurencb.ttf
+DataFormat:sfntData
+FileLength:22940
+FileModTime:976734202
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LeagueGothic
+FamilyName:League Gothic
+StyleName:Regular
+FullName:League Gothic
+MenuName:League Gothic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\League Gothic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:17332
+FileModTime:1306322414
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:mixtapeMike_TRIAL
+FamilyName:mixtapeMike_TRIAL
+FullName:mixtapeMike_TRIAL
+MenuName:mixtapeMike_TRIAL
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\MIXTMK_T.ttf
+DataFormat:sfntData
+FileLength:33076
+FileModTime:1340091386
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Notethis
+FamilyName:Note this
+StyleName:Regular
+FullName:Note this
+MenuName:Note this
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Note_this.ttf
+DataFormat:sfntData
+FileLength:52092
+FileModTime:1231512228
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OstrichSans-Medium
+FamilyName:Ostrich Sans
+StyleName:Medium
+FullName:Ostrich Sans Medium
+MenuName:Ostrich Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Ostrich Regular.ttf
+DataFormat:sfntData
+FileLength:12476
+FileModTime:1306331504
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Skinny-Regular
+FamilyName:Skinny
+StyleName:Regular
+FullName:Skinny Regular
+MenuName:Skinny
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Skinny-Regular.ttf
+DataFormat:sfntData
+FileLength:55436
+FileModTime:1327518438
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Snickles
+FamilyName:Snickles
+StyleName:Regular
+FullName:Snickles
+MenuName:Snickles
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Snickles.ttf
+DataFormat:sfntData
+FileLength:21628
+FileModTime:1252928932
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:whateverittakes
+FamilyName:whatever it takes
+StyleName:Regular
+FullName:whatever it takes
+MenuName:whatever it takes
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\whatever it takes.ttf
+DataFormat:sfntData
+FileLength:371912
+FileModTime:1343070914
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ZilSemiSlab
+FamilyName:Zil Semi Slab
+StyleName:Regular
+FullName:Zil Semi Slab
+MenuName:Zil Semi Slab
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\zil.ttf
+DataFormat:sfntData
+FileLength:70820
+FileModTime:1311004016
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Znikomit
+FamilyName:Znikomit
+StyleName:Regular
+FullName:Znikomit
+MenuName:Znikomit
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\Znikomit.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:677128
+FileModTime:1323196678
+WeightClass:100
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ZnikomitNo24
+FamilyName:ZnikomitNo24
+StyleName:Regular
+FullName:ZnikomitNo24
+MenuName:ZnikomitNo24
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\ZnikomitNo24.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:777128
+FileModTime:1341429480
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ZnikomitNo24Thin
+FamilyName:ZnikomitNo24
+StyleName:Thin
+FullName:ZnikomitNo24 Thin
+MenuName:ZnikomitNo24
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\ZnikomitNo24Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:841584
+FileModTime:1341429336
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ZnikomitNo25
+FamilyName:ZnikomitNo25
+StyleName:Regular
+FullName:ZnikomitNo25
+MenuName:ZnikomitNo25
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:J:\\Font\ZnikomitNo25.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:513212
+FileModTime:1345623472
+WeightClass:100
+WidthClass:5
+AngleClass:0
+%EndFont
+
